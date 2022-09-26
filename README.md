@@ -17,6 +17,7 @@ entropy expalined with formula and example(entropy before,entropy after,bits)  <
 information gain explained its signification with an example  <br /> 
 difference between entropy and gini impurity  <br /> 
 how long is decision tree splits  <br /> 
-### 2)decision tree on iris dataset (Decision_Tree_C5_0_CART)
+### 2)decision tree on iris dataset (Decision_Tree_C5_0_CART)  <br /> 
 
 
+Note:- non-linear dataset is best to  perform decision tree 
